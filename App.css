@@ -1,0 +1,125 @@
+.navbutton{
+    width: auto;
+    font-size: 0.75em;
+    padding: 0.5em 2em;
+    margin: 20px 1em 0px 70px;
+    box-shadow: none;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    color: #fff;
+    outline: none;
+    font-family: Raleway,sans-serif;
+    background: linear-gradient(269deg,#0048ff,#0096ff);
+    height:40px;
+}
+
+.img-card{
+  width: 350px!important;
+}
+img#\31 {
+  width: 357px;
+}
+
+  
+  
+#container {
+  background-color: rgb(228, 226, 223);
+  padding: 12px;
+  text-align: center;
+}
+
+.cardImage img {
+  width: 320px;
+  height: 200px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.cardTitle {
+  padding: 15px;
+  text-align:left;
+  font-size: 18px;
+  font-weight: 600;
+}
+.cardPara {
+  padding: 10px;
+  text-align:left;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.43;
+  color:rgba(0,0,0,0,.6); 
+}
+a{
+  text-decoration: none;
+  color: #0048ff;
+  margin-left: 25px;
+}
+.fil{
+      border:1px solid #0048ff ;
+      border-radius: 50px;
+      padding: 5px;
+    }
+.fil:hover {
+    background-color: white;
+  }
+.fill{
+    border:1px solid #0048ff ;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: #0048ff;
+    color: white;
+  
+  }
+  .navbar{
+    position: -webkit-sticky;
+    position: fixed!important;
+  }
+
+  .card {
+   
+height: auto;
+
+    display: inline-block;
+    background-color:white;
+    border-radius: 15px;
+    margin: 20px;
+    margin-right: 1%;
+    margin-left: 7%;
+    margin-bottom: 1em;
+    background-color: #fff;
+    border-radius: 15px;
+    border: 1px solid rgba(0,168,255,.3);
+    -webkit-box-sizing: border-box;
+    width: 23.5%;
+    box-sizing: unset;
+    margin: 10px;
+    margin-top: 120px;
+}
+figure.cardImage {
+  margin: 0px;
+}
+
+.main{
+  justify-content: space-around;
+  background-color: #f2f6ff;
+}
+h1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+h1.cardTitle {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+p.cardPara1 {
+  margin-top: 5px;
+}
+p.cardPara2 {
+  margin-top: 5px;
+}
+p.cardPara {
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
